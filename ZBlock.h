@@ -4,6 +4,4 @@ class ZBlock
 public:
 	ZBlock();
 	~ZBlock();
-};/fghj
-
-dewdew
+};
